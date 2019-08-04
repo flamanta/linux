@@ -1,6 +1,6 @@
 &nbsp;
 
-<p align="center"><a href =""><img src="https://raw.githubusercontent.com/flamanta/linux/master/images/community-black.png" alt="logo here"/></a></p>
+<p align="center"><a href ="https://elementary.io/"><img src="https://raw.githubusercontent.com/flamanta/linux/master/images/community-black.png" alt="elementary Community logo"/></a></p>
 
 <h3 align="center">@flamanta + elementary OS</h3>
 
@@ -23,7 +23,7 @@
 
 <br>
 <p align='center'>
-        <img src="https://raw.githubusercontent.com/flamanta/linux/master/images/screenshot.png" height="500" />
+    <img src="https://raw.githubusercontent.com/flamanta/linux/master/images/screenshot.png" height="500" />
 </p>
 
 <br>
@@ -49,3 +49,8 @@
 Please ⭐️ this repository if this project helped you!
 
 ## References
+
+- [6 Most Important things to do after Installing Elementary OS Juno](https://webcheerz.com/things-to-do-after-installing-elementary-os-5-juno/)
+- [11 Things To Do After Installing elementary OS 5 Juno](https://itsfoss.com/things-to-do-after-installing-elementary-os-5-juno/)
+- [16 Best Things To Do After Installing Elementary OS 5 Juno](https://www.ubuntupit.com/best-things-to-do-after-installing-elementary-os/)
+- [33 Things to do After Fresh Installation of Elementary 5 Juno](https://linoxide.com/distros/things-after-fresh-installation-elementary-5-juno/)
