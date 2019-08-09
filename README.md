@@ -1,6 +1,6 @@
 &nbsp;
 
-<p align="center"><a href ="https://elementary.io/"><img src="https://raw.githubusercontent.com/flamanta/linux/master/images/community-black.png" alt="elementary Community logo"/></a></p>
+<p align="center"><a href ="https://elementary.io/"><img src="https://raw.githubusercontent.com/flamanta/linux/master/images/community-black.png" alt="elementary Community logo"/ height="200"></a></p>
 
 <h3 align="center">@flamanta + elementary OS</h3>
 
