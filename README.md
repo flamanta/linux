@@ -65,6 +65,7 @@ I will likely update this document when the next version of Elementary OS is rel
   - [Debian packages(.deb)](#debian-packagesdeb)
   - [Flatpak](#flatpak)
   - [Snap Store](#snap-store)
+- [Applications](#applications-1)
 
 ## Installation
 
@@ -276,6 +277,103 @@ Restart the system to ensure that snap's paths are updated correctly. Thereafter
 
 ```bash
 sudo snap install snap-store
+```
+
+## Applications
+
+For simplification purposes, applications which are installed by default on Elementary OS are not included.
+
+Applications are listed in alphabetical order, with the best installation method listed in `codeblocks` (AppCenter, AppImage, Devbian, Flatpak, Snap or Terminal). If necessary, relevant terminal commands are given as well. Installation via AppCenter and other GUI application stores is generally preferred.
+
+- AppEditor `AppCenter`
+  - Edit the Applications menu.
+- Asunder CD Ripper `Terminal > sudo apt-get install asunder`
+  - Graphical audio CD ripper and encoder.
+- Audacity `Terminal > sudo apt-get install audacity`
+  - Fast, cross-platform audio editor.
+- BleachBit `Terminal > sudo apt-get install bleachbit`
+  - Delete unnecessary files from the system.
+- Brackets `Snap Store > sudo snap install brackets --classic`
+  - Open source code editor for the web.
+  - Although installing via downloading the `.deb` file from its GitHub page is possible, there are some dependecy conflicts related to `libcurl3` and `libcurl4` so installing from the Snap Store is recommended.
+- Byte `AppCenter`
+  - Rediscover your music.
+- Ciano `AppCenter`
+  - A multimedia file converter.
+- dConf Editor `AppCenter`
+  - A graphical tool for editing the dconf database.
+- Discord `.deb file via discordapp.com`
+  - All-in-one voice and text chat for gamers.
+- DotFonts `AppCenter`
+  - Find beautiful fonts.
+- easyTag `AppCenter`
+  - Edit audio file metadata.
+- Eddy `AppCenter`
+  - Install and manage `.deb` files.
+- Firefox `AppCenter`
+  - Mozilla Firefox web browser.
+- Fondo `AppCenter`
+  - Find the most beautiful wallpapers.
+- GitIgnore `AppCenter`
+  - .gitignore reference for various languages.
+- Google Chrome `.dev file via google.com/chrome`
+  - Google Chrome web browser.
+- Grub Customizer `Terminal via PPA`
+  - Customize the bootloader (GRUB2 or BURG)
+  - Installation:
+
+```bash
+$   sudo add-apt-repository ppa:danielrichter2007/grub-customizer
+$   sudo apt-get update
+$   sudo apt-get install grub-customizer
+```
+
+- HandBrake `AppCenter`
+  - Transcodes DVD, Blu-ray, and other media.
+- Headset `.dev file via headsetapp.co`
+  - Desktop music player powered by YouTube and Reddit.
+- Hyper `.deb file via hyper.is`
+  - A terminal built on web technologies.
+- Inkscape `AppCenter`
+  - Create and edit `.svg` files.
+- Keybase `.deb file via keybase.io`
+  - Secure groups, files, and chat for everyone.
+- Krita `AppCenter`
+  - Digital painting, creative freedom.
+- Lepton `Snap Store > sudo snap install lepton`
+  - Democratizing snippet management.
+- LibreOffice `AppCenter`
+  - The office productivity suite compatible to the open and standardized ODF document format.
+- LibreOffice Base `AppCenter`
+  - Database manager part of the LibreOffice productivity suite.
+- LibreOffice Calc `AppCenter`
+  - Spreadsheet program of the LibreOffice productivity suite.
+- LibreOffice Draw `AppCenter`
+  - Graphics editor part of the LibreOffice productivity suite.
+- LibreOffice Impress `AppCenter`
+  - Presentation program of the LibreOffice productivity suite.
+- LibreOffice Math `AppCenter`
+  - Create and edit scientific formulas and equations.
+- LibreOffice Writer `AppCenter`
+  - Word processor part of the LibreOffice productivity suite.
+- Lollypop `Terminal via PPA`
+  - GNOME music player.
+  - Installation:
+
+```bash
+$   sudo add-apt-repository ppa:gnumdk/lollypop
+$   sudo apt-get update
+$   sudo apt-get install lollypop
+```
+
+- MusicBrainz Picard `Terminal via PPA`
+  - Cross-platform music tagger.
+  - Installation:
+
+```bash
+$   sudo add-apt-repository ppa:musicbrainz-developers/stable
+$   sudo apt-get update
+$   sudo apt-get install picard
 ```
 
 > to be continued..
