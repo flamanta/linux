@@ -376,6 +376,49 @@ $   sudo apt-get update
 $   sudo apt-get install picard
 ```
 
+- NaSC `AppCenter`
+  - Do maths like a normal person.
+- Net Texts `Chrome Web Store`
+  - The app for replacing or supplementing textbooks.
+- Notejot `AppCenter`
+  - Jot your ideas.
+- NotesUp `AppCenter`
+  - Your new notebook.
+- Notifier `AppCenter`
+  - Never forget to do something.
+- Odio `Snap Store > sudo snap install odio`
+  - A free radio streaming software for Windows, Mac OS and Linux.
+- OnlyOffice Desktop Editors `Snap Store > sudo snap install onlyoffice-desktopeditors`
+  - A comprehensive office suite for editing documents, spreadsheets and presentations.
+- Persepolis Download Manager `Terminal via PPA`
+  - A download Manager and a GUI For `aria2`.
+  - Installation:
+
+```bash
+$   sudo add-apt-repository ppa:persepolis/ppa
+$   sudo apt update
+$   sudo apt install persepolis
+```
+
+- Python Tester `AppCenter`
+  - Test some Python code!
+- qBitTorrent `AppCenter`
+  - A BitTorrent client.
+- Quilter `AppCenter`
+  - Focus on your writing.
+- Snap Store `Terminal`
+  - A graphical desktop application for discovering, installing and managing snaps on Linux.
+  - Installation:
+
+```bash
+$   sudo apt update
+$   sudo apt install snapd
+
+# Restart system to ensure snap's paths are updated correctly.
+
+$   sudo snap install snap-store
+```
+
 > to be continued..
 
 <!-- ## References
