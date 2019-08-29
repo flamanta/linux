@@ -312,6 +312,16 @@ Applications are listed in alphabetical order, with the best installation method
   - Install and manage `.deb` files.
 - Firefox `AppCenter`
   - Mozilla Firefox web browser.
+- Flacon `Terminal via PPA`
+  - Audio file encoder.
+  - Installation:
+
+```bash
+$   sudo add-apt-repository ppa:flacon
+$   sudo apt-get update
+$   sudo apt-get install flacon
+```
+
 - Fondo `AppCenter`
   - Find the most beautiful wallpapers.
 - GitIgnore `AppCenter`
