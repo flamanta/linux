@@ -419,6 +419,41 @@ $   sudo apt install snapd
 $   sudo snap install snap-store
 ```
 
+- Spice-Up `AppCenter`
+  - Create simple and beautiful presentations.
+- Spotify `Snap Store > sudo snap install spotify`
+  - Music for everyone.
+- System Monitor `Terminal > sudo apt-get install gnome-system-monitor`
+  - Process viewer and system resource monitor for GNOME.
+- Telegram Desktop `Snap Store > sudo snap install telegram-desktop`
+  - Official desktop client for the Telegram messenger.
+- Timetable `AppCenter`
+  - Plot out your own timetable for the week and organize it.
+- Typora `Terminal via PPA`
+  - A Markdown editor, Markdown reader.
+  - Installation:
+
+```bash
+# or run:
+# sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys BA300B7755AFCFAE
+wget -qO - https://typora.io/linux/public-key.asc | sudo apt-key add -
+# add Typora's repository
+sudo add-apt-repository 'deb https://typora.io/linux ./'
+sudo apt-get update
+# install typora
+sudo apt-get install typora
+```
+
+- VIDO
+- Visual Studio Code
+- VLC Media Player
+- Vocal
+- WPS Presentation
+- WPS Spreadsheets
+- WPS Writer
+- Write.as
+- Zenkit
+
 > to be continued..
 
 <!-- ## References
