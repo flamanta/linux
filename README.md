@@ -454,10 +454,14 @@ sudo apt-get update
 sudo apt-get install typora
 ```
 
-- VIDO
-- Visual Studio Code
-- VLC Media Player
-- Vocal
+- VIDO `AppCenter`
+  - Online video downloader.
+- Visual Studio Code `Snap Store > sudo snap install code --classic`
+  - Code editing. Redefined.
+- VLC Media Player `AppCenter`
+  - The open-source multimedia player.
+- Vocal `AppCenter`
+  - A great podcast client for the modern free desktop.
 - WPS Presentation
 - WPS Spreadsheets
 - WPS Writer
