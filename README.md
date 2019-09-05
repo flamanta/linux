@@ -66,6 +66,7 @@ I will likely update this document when the next version of Elementary OS is rel
   - [Flatpak](#flatpak)
   - [Snap Store](#snap-store)
 - [Applications](#applications-1)
+- [References](#references)
 
 ## Installation
 
@@ -462,20 +463,19 @@ sudo apt-get install typora
   - The open-source multimedia player.
 - Vocal `AppCenter`
   - A great podcast client for the modern free desktop.
-- WPS Presentation
-- WPS Spreadsheets
-- WPS Writer
-- Write.as
-- Zenkit
+- WPS Office for Linux `.deb file via wps-community.org`
+  - Office suite emphasizing compatibility with Microsoft Office.
+- Write.as `AppCenter`
+  - Publish a thought in seconds
+- Zenkit `.deb file via zenkit.com`
+  - Organize anything, your way.
 
-> to be continued..
-
-<!-- ## References
+## References
 
 - [6 Most Important things to do after Installing Elementary OS Juno](https://webcheerz.com/things-to-do-after-installing-elementary-os-5-juno/)
 - [11 Things To Do After Installing elementary OS 5 Juno](https://itsfoss.com/things-to-do-after-installing-elementary-os-5-juno/)
 - [16 Best Things To Do After Installing Elementary OS 5 Juno](https://www.ubuntupit.com/best-things-to-do-after-installing-elementary-os/)
-- [33 Things to do After Fresh Installation of Elementary 5 Juno](https://linoxide.com/distros/things-after-fresh-installation-elementary-5-juno/) -->
+- [33 Things to do After Fresh Installation of Elementary 5 Juno](https://linoxide.com/distros/things-after-fresh-installation-elementary-5-juno/)
 
 ## Author <!-- omit in toc -->
 
