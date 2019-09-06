@@ -62,7 +62,7 @@ I will likely update this document when the next version of Elementary OS is rel
   - [Installing closed-source multimedia codecs](#installing-closed-source-multimedia-codecs)
 - [Alternative package management systems](#alternative-package-management-systems)
   - [AppImage (.AppImage)](#appimage-appimage)
-  - [Debian packages(.deb)](#debian-packagesdeb)
+  - [Debian packages (.deb)](#debian-packages-deb)
   - [Flatpak](#flatpak)
   - [Snap Store](#snap-store)
 - [Applications](#applications-1)
@@ -239,7 +239,7 @@ One can simply run it by executing
 $   ./Subsurface.*AppImage
 ```
 
-### Debian packages(.deb)
+### Debian packages (.deb)
 
 Debian packages are archive files ending with the extension `.deb`. Due to Elementary OS being a derivative of Ubuntu, which is in turn a derivative of Debian, Debian packages can be installed on Elementary OS.
 
